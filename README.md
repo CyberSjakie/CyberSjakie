@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberSjakie
 - 👀 I’m interested in Forensic ICT
-- 🌱 I’m currently learning Forensic ICT
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
